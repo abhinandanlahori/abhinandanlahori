@@ -50,7 +50,7 @@
 <img align="left" alt="Abhinandan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhinandanlahori&show_icons=true" />
 
 
-##  Top Languages
+## Top Languages
 <img align="left" alt="Abhinandan's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanlahori" />
   
 </details>
