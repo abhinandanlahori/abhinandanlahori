@@ -1,6 +1,6 @@
  ### Hi there, I'm Abhinandan Lahori - aka [Abhi][website] 👋
 
-[![Website](https://img.shields.io/website?label=abhinandanlahori.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://abhinandanlahori.com)
+[![Website](https://img.shields.io/website?label=abhinandanlahori.com&style=for-the-badge&url=https%3A%2F%2Fabhinandanlahori.com)](https://abhinandanlahori.com)
 
 
 ## I'm a Student, Music Producer, and Developer!
@@ -16,10 +16,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="abhinandanlahori.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="abhinandanlahori | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="abhinandanlahori | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="abhinandanlahori | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
