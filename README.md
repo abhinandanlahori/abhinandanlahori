@@ -1,6 +1,6 @@
  ### Hi there, I'm Abhinandan Lahori - aka [Abhi][website] 👋
 
-[![Website](https://img.shields.io/website?label=abhinandanlahori.com&style=for-the-badge&url=https%3A%2F%2Fabhinandanlahori.com)](https://abhinandanlahori.com)
+[![Website](https://img.shields.io/website?label=abhinandanlahori.com&style=for-the-badge&url=https%3A%2F%2Fabhinandanlahori.com)](https://abhinandanlahori.github.com)
 
 
 ## I'm a Student, Music Producer, and Developer!
